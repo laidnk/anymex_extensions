@@ -1,4 +1,4 @@
-// from https://github.com/MiraiEnoki/anymex-extensions/blob/main/dart/anime/src/en/vumeto
+// from https://github.com/MiraiEnoki/anymex_extensions/blob/main/dart/anime/src/en/vumeto
 
 import '../../../../../model/source.dart';
 
